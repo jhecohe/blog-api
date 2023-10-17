@@ -2,7 +2,7 @@
 
 ## Description: This API allow users to create, read, update and delete blog posts and comments. Also have an authentication system that supports login and signup, which uses JWT.
 
-## Tools:
+## Tools
 
 *     Spring boot
 *     Java 17
@@ -106,7 +106,7 @@ To create a new post we need to be already authenticated to send the token in th
     "content": "This is the post that was created from postman"
 }`
 
-![new post](./img/new post.png)
+![new post](./img/newpost.png)
 
 
 
